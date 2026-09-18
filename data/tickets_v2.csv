@@ -1,0 +1,21 @@
+text,category,priority
+"I reset my password twice but the portal still says invalid credentials",account_access,medium
+"cant login since morning and the reset email never came",account_access,high
+"My phone was replaced and I no longer have access to the authenticator app",account_access,medium
+"Every employee is locked out of the production dashboard",account_access,critical
+"Please change the email address connected to my account",account_access,low
+"The invoice contains charges for users we removed last month",billing,medium
+"payment deducted but subscription still showing expired",billing,high
+"We were charged three times and need the duplicate transactions reversed",billing,high
+"All customer payments are failing during checkout",billing,critical
+"Could you send me a copy of last month's invoice?",billing,low
+"The dashboard freezes after I select a date range",technical_issue,medium
+"reports showing blank page after todays update",technical_issue,high
+"Users in our Kolkata office are receiving a server error",technical_issue,high
+"The complete application is unavailable for every customer",technical_issue,critical
+"The profile photograph looks stretched on mobile devices",technical_issue,low
+"Please add an option to export attendance as Excel",feature_request,low
+"Can managers receive an email when leave is requested?",feature_request,low
+"We need bulk employee import before next month's onboarding",feature_request,medium
+"Please provide an API for synchronizing employee records",feature_request,medium
+"Dark mode would make the dashboard easier to use at night",feature_request,low
