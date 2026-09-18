@@ -19,3 +19,203 @@ text,category,priority
 "We need bulk employee import before next month's onboarding",feature_request,medium
 "Please provide an API for synchronizing employee records",feature_request,medium
 "Dark mode would make the dashboard easier to use at night",feature_request,low
+Could you update the mobile number linked to my profile for account recovery,account_access,low
+I would like to add a backup email in case I lose access again,account_access,low
+"please rename my username, it has a spelling mistake",account_access,low
+Is there a way to view my last few login timestamps,account_access,low
+Can someone remove my old work email from the account settings,account_access,low
+I want to enable email notifications for new device logins,account_access,low
+"requesting a change of security question, forgot the answer to the old one",account_access,low
+Can you add my personal email as a secondary login option,account_access,low
+My password reset link expired before I could use it,account_access,medium
+I can log in on my laptop but not on the mobile app,account_access,medium
+Two of my team members can't access their dashboards since yesterday,account_access,medium
+The OTP for login is arriving several minutes late,account_access,medium
+I updated my email but now the old one is still required for login,account_access,medium
+getting logged out automatically every few minutes,account_access,medium
+My account shows as suspended though I never violated any policy,account_access,medium
+Cant access the reports tab even though my role should allow it,account_access,medium
+SSO login redirects me back to the login page in a loop,account_access,medium
+One of our new hires still cannot access the onboarding portal,account_access,medium
+I changed my phone number and now OTP isnt reaching me,account_access,medium
+My session keeps expiring within a minute of logging in,account_access,medium
+"The 'remember me' option isnt working, I have to log in daily",account_access,medium
+Access request for the finance module was approved but still shows denied,account_access,medium
+I no longer see the admin tab that i used to have access to,account_access,medium
+Trying to log in from a new laptop keeps failing verification,account_access,medium
+My colleague's account got merged with mine by mistake,account_access,medium
+I am unable to switch between two company accounts I manage,account_access,medium
+cant login since this morning and support hasnt responded yet,account_access,high
+Our HR manager is locked out right before payroll processing,account_access,high
+Password reset emails are not arriving to anyone on our team,account_access,high
+I lost my phone and cant get past the two factor prompt,account_access,high
+None of my direct reports can access their leave requests today,account_access,high
+The admin account is locked and we cant approve pending leaves,account_access,high
+Ten employees reported being logged out and cant sign back in,account_access,high
+Login page throws an error for anyone using the company domain email,account_access,high
+I've been locked out for 3 hours and need to run payroll now,account_access,high
+Multi factor authentication is rejecting valid codes for our whole team,account_access,high
+"Cannot reset password, the reset link just leads to a blank page",account_access,high
+Our finance lead is unable to log in during month end closing,account_access,high
+Half the sales team lost dashboard access after the last update,account_access,high
+I keep getting an unauthorized error despite having admin rights,account_access,high
+Password reset works but the new password is rejected immediately after,account_access,high
+The account recovery process has failed three times in a row,account_access,high
+No one in the company can log into the platform right now,account_access,critical
+The entire HR team is locked out during open enrollment deadline,account_access,critical
+SSO is down company wide and nobody can access any module,account_access,critical
+All admin accounts got disabled after the last security patch,account_access,critical
+"Every user is being logged out every few seconds, system unusable",account_access,critical
+Login is completely broken for all 500 of our employees,account_access,critical
+Authentication service is returning errors for every single login attempt,account_access,critical
+The whole organization lost access right before the payroll deadline,account_access,critical
+Can you email me the invoice for the last quarter,billing,low
+I need a breakdown of charges for our annual plan,billing,low
+Please update the billing address on our account,billing,low
+Could you send a receipt for the payment made last week,billing,low
+What is the difference between the standard and premium billing tiers,billing,low
+requesting a copy of our GST invoice for accounting purposes,billing,low
+Can the invoice be generated in a different currency,billing,low
+I'd like to switch from monthly to annual billing,billing,low
+The invoice total doesn't match what we agreed during renewal,billing,medium
+we were billed for five extra seats we never added,billing,medium
+My card was charged but the plan still shows as free tier,billing,medium
+There's a discrepancy between the quoted price and the final invoice,billing,medium
+The prorated credit from last month wasnt applied to this invoice,billing,medium
+I cancelled the add-on but its still appearing on the bill,billing,medium
+Refund for the downgrade hasnt reflected in our account yet,billing,medium
+Tax amount on the invoice seems incorrectly calculated,billing,medium
+We were charged in USD instead of the agreed INR pricing,billing,medium
+The coupon code wasnt applied even though it was valid at checkout,billing,medium
+Billing cycle changed without any notice to us,billing,medium
+invoice shows a plan we downgraded from two months ago,billing,medium
+Late fee was charged even though payment was made on time,billing,medium
+We need the invoice reissued with the correct company name,billing,medium
+"Our subscription renewed at the old price, not the new discounted rate",billing,medium
+The payment method on file is outdated and needs correcting before renewal,billing,medium
+Credit note from last months overpayment hasnt been issued,billing,medium
+Annual invoice includes users who left the company months ago,billing,medium
+payment failed but the amount was still deducted from our account,billing,high
+We were double billed for this month's subscription,billing,high
+Card was charged twice for the same invoice number,billing,high
+Our subscription got cancelled despite payment going through,billing,high
+"urgent: incorrect amount charged, need reversal before it affects our books",billing,high
+The renewal charge is nearly double what we were quoted,billing,high
+money was deducted but our account still shows as unpaid,billing,high
+We need this duplicate charge resolved before end of day,billing,high
+Payment bounced on their end but we were still marked delinquent,billing,high
+Refund promised two weeks ago still hasnt arrived,billing,high
+Was charged for a plan upgrade I never authorized,billing,high
+The invoice includes charges from a contract that already ended,billing,high
+Our card got charged for another company's subscription by mistake,billing,high
+This is the second month in a row with a billing error,billing,high
+We were charged full price despite the enterprise discount agreement,billing,high
+Subscription shows active but access was still cut off after payment,billing,high
+All customer transactions are failing at checkout right now,billing,critical
+Every payment attempt today has resulted in duplicate charges,billing,critical
+Our entire customer base is being double billed this cycle,billing,critical
+Payment gateway is down and no orders can be completed,billing,critical
+Mass billing error has charged all our clients incorrectly overnight,billing,critical
+None of our customers can complete checkout since this morning,billing,critical
+System charged every subscriber twice during last night's renewal run,billing,critical
+Payments are failing for 100% of our transactions since the outage,billing,critical
+The company logo looks slightly blurry on the login page,technical_issue,low
+Font size on the settings page is inconsistent with the rest of the app,technical_issue,low
+minor issue: the calendar icon is misaligned on Firefox,technical_issue,low
+The loading spinner doesn't match our theme color,technical_issue,low
+Tooltip text overflows on smaller screens,technical_issue,low
+Table columns dont resize properly when the window is small,technical_issue,low
+The dark mode toggle icon looks cut off,technical_issue,low
+Employee photos appear slightly pixelated in the directory view,technical_issue,low
+Search results take unusually long to load on the reports page,technical_issue,medium
+Exported CSV files sometimes have missing rows,technical_issue,medium
+The attendance chart doesnt update after editing an entry,technical_issue,medium
+clicking 'save' sometimes doesnt persist changes to the profile,technical_issue,medium
+Notifications are delayed by several hours,technical_issue,medium
+The filter dropdown resets every time I switch tabs,technical_issue,medium
+Uploaded documents fail to preview for PDF files over 5MB,technical_issue,medium
+Dashboard widgets overlap when resizing the browser window,technical_issue,medium
+The leave balance calculation seems off by a day or two,technical_issue,medium
+App crashes when switching between two reports quickly,technical_issue,medium
+Date picker shows the wrong month by default,technical_issue,medium
+Bulk edit feature only applies changes to the first few rows,technical_issue,medium
+The mobile app logs me out whenever I switch networks,technical_issue,medium
+Sorting by name doesnt work correctly with special characters,technical_issue,medium
+The chart on the analytics tab shows data from the wrong month,technical_issue,medium
+Comments on tickets sometimes appear duplicated,technical_issue,medium
+Search doesnt return results for names with accented characters,technical_issue,medium
+The print view cuts off the right side of the table,technical_issue,medium
+reports page shows a blank screen after this morning's update,technical_issue,high
+Users across the Mumbai office are getting a 500 error on load,technical_issue,high
+The app is crashing repeatedly for anyone using the Android version,technical_issue,high
+Data sync between modules has stopped working since last night,technical_issue,high
+Uploads are failing for every file type since the last deploy,technical_issue,high
+The scheduling module hasnt loaded correctly for two days now,technical_issue,high
+Multiple teams report the dashboard freezing after login,technical_issue,high
+"Approvals arent going through, stuck in pending for everyone",technical_issue,high
+The recent release broke the export feature for all users,technical_issue,high
+Several departments cant access their reports since the update,technical_issue,high
+The system logs everyone out randomly throughout the day,technical_issue,high
+"Performance has degraded badly, pages take over a minute to load",technical_issue,high
+Integration with our payroll system stopped syncing yesterday,technical_issue,high
+search feature is completely broken after the latest patch,technical_issue,high
+A recurring server error is affecting most of our active users,technical_issue,high
+The whole reporting module has been unusable since this morning,technical_issue,high
+The entire application is down for every customer right now,technical_issue,critical
+"Complete outage, nobody can access the platform at all",technical_issue,critical
+"production is completely unavailable, this is affecting all our operations",technical_issue,critical
+"system wide crash, every single user is seeing an error page",technical_issue,critical
+The platform has been completely inaccessible for the last hour,technical_issue,critical
+All services are returning 500 errors across every region,technical_issue,critical
+"total outage, none of our 2000 employees can use the system",technical_issue,critical
+"Server is completely unresponsive, this is a full blackout",technical_issue,critical
+It would be nice to have a keyboard shortcut for quick search,feature_request,low
+Can we get a way to customize the dashboard color theme,feature_request,low
+Would be great to have a print friendly view for reports,feature_request,low
+Please consider adding emoji support in the comments section,feature_request,low
+Could you add a 'recently viewed' section to the homepage,feature_request,low
+It would help to have tooltips explaining each setting,feature_request,low
+Can we get an option to reorder columns in the table view,feature_request,low
+Adding a favorites/star feature for frequently used reports would help,feature_request,low
+Would love a Sunday-start option for the calendar view,feature_request,low
+Can the app remember my last filter selection between sessions,feature_request,low
+Please add a way to duplicate an existing report template,feature_request,low
+Could you add multi language support for the interface,feature_request,low
+A quick way to preview attachments without downloading would be nice,feature_request,low
+Please add an undo option after deleting an entry,feature_request,low
+It would be convenient to have a compact view for the employee list,feature_request,low
+Can we get custom avatar uploads instead of default icons,feature_request,low
+Would appreciate a way to pin important announcements,feature_request,low
+Adding a changelog page for new updates would be helpful,feature_request,low
+Can you add a way to export just a single row instead of the whole table,feature_request,low
+It would be nice to mute notifications during weekends,feature_request,low
+Please consider a browser extension for quick access,feature_request,low
+Could there be an option to schedule reports to auto-generate weekly,feature_request,low
+Could you add a dark theme option specifically for the reports page,feature_request,low
+It would be nice to have drag and drop for reordering the employee list,feature_request,low
+We need bulk editing support for employee records before our audit,feature_request,medium
+Please add role-based permissions so managers can see only their team,feature_request,medium
+Can you add a way to import attendance from biometric devices,feature_request,medium
+We would like custom fields added to the employee profile section,feature_request,medium
+Please add support for exporting reports directly to Google Sheets,feature_request,medium
+Can we get audit logs showing who changed what and when,feature_request,medium
+It would help our team to have approval workflows for expense claims,feature_request,medium
+We need an integration with our existing payroll software,feature_request,medium
+Please add the ability to set recurring leave for part time staff,feature_request,medium
+Can managers get a weekly summary email of team attendance,feature_request,medium
+We need a way to bulk deactivate accounts for employees who left,feature_request,medium
+Please add support for multiple approval levels on leave requests,feature_request,medium
+Can the system support custom holiday calendars per location,feature_request,medium
+We would like a way to tag employees by department for filtering,feature_request,medium
+Please add single sign-on support for our identity provider,feature_request,medium
+Can you add webhook support so we can trigger our own automations,feature_request,medium
+We need bulk employee import completed before next week's onboarding deadline,feature_request,high
+"Our compliance team needs export-to-PDF for audit next week, please prioritize",feature_request,high
+We need the API access enabled before our integration deadline this Friday,feature_request,high
+Without SSO support we cannot renew our contract next month,feature_request,high
+We need custom approval workflows live before our fiscal year starts,feature_request,high
+The bulk import feature is essential for our merger onboarding happening this month,feature_request,high
+We need multi currency support before we expand to the new region next quarter,feature_request,high
+Our client requires white-labeling before the contract renewal deadline,feature_request,high
+We need the mobile app to support offline mode before the field team rollout,feature_request,high
+Data residency options need to be available before our compliance review next week,feature_request,high
